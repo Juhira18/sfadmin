@@ -5,7 +5,6 @@ ansible/hosts
 
 
 =======
-ansible/playbooks/add_user.yml
+
 ansible/playbooks/zabbix.yml
-ansible/common/files/id_rsa.pub
 >>>>>>> ansible-web
