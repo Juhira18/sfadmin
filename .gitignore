@@ -1,8 +1,9 @@
-ansible/hosts
 
 
-ansible/playbooks/add_user.yml
+
+ansible/playbooks/redis.yml
 ansible/playbooks/zabbix.yml
 ansible/common/files/id_rsa.pub
+ansible/playbooks/zabbix-agent.yml
 
 
